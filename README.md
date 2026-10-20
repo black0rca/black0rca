@@ -20,7 +20,8 @@
 <h3 align="left">🛠️ Languages & Tools I Have Placed My Hands On</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,linux,git,github,githubactions,docker,podman,rust,go,c,cpp,neovim,vim,bash,python,markdown,obsidian" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,git,github,githubactions,docker,rust,go,c,cpp,neovim,vim,bash,python,markdown,obsidian" alt="Skill Icons" />
+  <img src="https://img.shields.io/badge/Podman-844FBA?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
@@ -40,7 +41,8 @@
   </a>
 </p>
 
-<h3 align="left">💡 Principles to Live By</h3>
+---
 
 <p align="center">
-  <img src="
+  Let's build secure and robust systems from the ground up! 🌟
+</p>
