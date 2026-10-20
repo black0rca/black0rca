@@ -4,23 +4,23 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9C88FF&width=400&lines=System+Programmer+%26+Developer+|+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9C88FF&width=450&lines=Systems+Programmer+%26+DevSecOps+Engineer+|+" alt="Typing SVG" />
   </a>
 </p>
 
 <h3 align="left">👤 About Me</h3>
 
 <p align="left">
-- 👋 Hi, I'm a system programmer with a passion for building from the ground up.
-- 🔭 Focusing on compilers, low-level development, and core system components.
-- 🌱 Currently deep diving into advanced memory management and security.
-- 💬 Ask me about C, Rust, Go, or system internals.
+- 👋 Hi, I'm a systems programmer focusing on robust architecture and Security by Design.
+- 🔭 Building low-level tools, compilers, and secure CI/CD automation pipelines.
+- 🛡️ Applying DevSecOps principles, memory safety, and vulnerability analysis from the ground up.
+- 💬 Ask me about C, Rust, Go, Arch Linux, or security architecture.
 </p>
 
 <h3 align="left">🛠️ Languages & Tools I Have Placed My Hands On</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,linux,git,github,rust,go,c,cpp,neovim,vim,bash,python,markdown,obsidian" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,git,github,githubactions,docker,rust,go,c,cpp,neovim,vim,bash,python,markdown,obsidian" alt="Skill Icons" />
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/black0rca/github-readme-streak-stats">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=black0rca&theme=nord&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
@@ -48,5 +48,5 @@
 ---
 
 <p align="center">
-  Let's build something robust from the ground up! 🌟
+  Let's build secure and robust systems from the ground up! 🌟
 </p>
