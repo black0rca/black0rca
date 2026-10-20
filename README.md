@@ -1,6 +1,6 @@
 <!-- 1. البانر العلوي (تم إصلاح حجم الخط وتنسيق النص البنفسجي) -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=Welcome%20to%20my%20universe%20🚀&fontAlign=80&fontAlignY=35&fontSize=40&fontColor=fff" alt="البانر" />
+  <img src=["https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=Welcome%20to%20my%20universe%20🚀&fontAlign=80&fontAlignY=35&fontSize=40&fontColor=fff" alt="البانر"](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=timeGradient&section=footer&reversal=false&text=WELCOME+TO+MY+GALAXY+%F0%9F%8C%8C&textBg=false&fontSize=38&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60) />
 </h1>
 
 <!-- نص تحية متحرك (تم تصغير حجم الخط وضبط العرض لمنع الانقطاع) -->
