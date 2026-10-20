@@ -13,14 +13,14 @@
 <p align="left">
 - 👋 Hi, I'm a systems programmer focusing on robust architecture and Security by Design.
 - 🔭 Building low-level tools, compilers, and secure CI/CD automation pipelines.
-- 🛡️ Applying DevSecOps principles, memory safety, and vulnerability analysis from the ground up.
-- 💬 Ask me about C, Rust, Go, Arch Linux, or security architecture.
+- 🛡️ Applying DevSecOps principles, daemonless containerization, memory safety, and vulnerability analysis.
+- 💬 Ask me about C, Rust, Go, Arch Linux, Podman, or security architecture.
 </p>
 
 <h3 align="left">🛠️ Languages & Tools I Have Placed My Hands On</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,linux,git,github,githubactions,docker,rust,go,c,cpp,neovim,vim,bash,python,markdown,obsidian" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,git,github,githubactions,docker,podman,rust,go,c,cpp,neovim,vim,bash,python,markdown,obsidian" alt="Skill Icons" />
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
@@ -40,10 +40,9 @@
   </a>
 </p>
 
-<h3 align="left">💡 Random Dev Quote</h3>
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=dark&theme=nord" alt="Dev Quote" />
-</p>
+<h3 align="left">💡 Principles to Live By</h3>
+
+> "إن قامتِ السَّاعةُ وفي يدِ أحدِكم فَسيلةً، فإنِ استطاعَ أن لا تَقومَ حتَّى يغرِسَها فلْيغرِسْها"
 
 ---
 
