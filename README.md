@@ -42,10 +42,5 @@
 
 <h3 align="left">💡 Principles to Live By</h3>
 
-> "إن قامتِ السَّاعةُ وفي يدِ أحدِكم فَسيلةً، فإنِ استطاعَ أن لا تَقومَ حتَّى يغرِسَها فلْيغرِسْها"
-
----
-
 <p align="center">
-  Let's build secure and robust systems from the ground up! 🌟
-</p>
+  <img src="
